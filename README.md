@@ -8,8 +8,8 @@ This repository contains SQL queries and supporting data files for performing da
 - titles.csv: sample data
 - salaries.csv: sample data
 - dept_emp.csv: sample data
-- ER_Diagram.png: entity-relationship diagram of the data model
-- Screenshots: folder containing query output results
+- ER_Diagram.pdf: entity-relationship diagram of the data model
+- queries.pdf: pdf containing query output results
 
 ## Tools Used
 
